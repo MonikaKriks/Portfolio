@@ -1,18 +1,16 @@
-# task 1
-print('Hello, World')
+print('# task 1')
+print('Hello, World\n')
 
 ###############################################
 
 
 
-# task 2
-print( 'Hello, Monika')
+print('#task 2')
+print( 'Hello, Monika\n')
 
-###############################################
+################################################
 
-
-# task 3
-
+print('#task 3')
 print('Temperatures that were reached over the summer:' )
 temp_c= 38.4
 temp_f =  1.8 * temp_c + 32
@@ -22,8 +20,7 @@ print("Temperature in Farenheit:" , temp_f)
 #############################################
 
 
-
-#task 4
+print('\n#task 4')
 
 matches = 609
 batted = 1014
@@ -31,7 +28,7 @@ not_out = 162
 scored_runs = 48426
 
 batting_average = 1014/609
-print("Geoffrey Boycott's batting average is:",  batting_average , "hits per game.")
+print("Geoffrey Boycott's batting average is:",  batting_average , "hits per game.\n")
 
 #######################################################################################
 
