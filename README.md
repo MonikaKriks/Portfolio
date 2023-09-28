@@ -1,3 +1,3 @@
-# week-1-
+# LBU projects
 
 My projects that are done in 2023/2024
