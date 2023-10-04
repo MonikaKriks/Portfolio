@@ -1,5 +1,7 @@
-print('# task 1')
-print('Hello, World\n')
+#!/usr/bin/env python3
+print('#task 1')
+if __name__ == '__main__':
+    print('Hello, World')
 
 ###############################################
 
