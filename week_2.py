@@ -15,5 +15,13 @@ print("#task 3\n")
 total_students= input("How many students? ")
 students_per_group= input("Required group size? ")
 groups= total_students / students_per_group
+left_over= total_students /% students_per_group
 print(" There will be", groups, "groups with ... students left over")
 
+#################################################
+
+print("#task 4\n")
+sweets_count= input("How many sweets you have? ")
+children_there= input("How many children are in the class today? ")
+sweets_division= sweets_count/children_there
+remaining_sweets= 
